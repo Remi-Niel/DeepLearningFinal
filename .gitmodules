@@ -1,0 +1,3 @@
+[submodule "star-gan-AdaIN"]
+	path = star-gan-AdaIN
+	url = https://github.com/yiebo/star-gan-AdaIN
